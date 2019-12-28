@@ -72,6 +72,10 @@ typings/
 .env
 .env.test
 
+# certs with key
+server.cert
+server.key
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
